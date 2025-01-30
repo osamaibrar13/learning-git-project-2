@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 1512px;
+    height: 982px;
+    top: 329px; 
+    background: #FFFFFF;
+    background-image: url("images/Rectangle\ 1.png");
+}
+
